@@ -35,6 +35,6 @@ Each news article is permanently recorded on the blockchain along with the autho
 - On-chain content verification
 
 ## 🔗 Deployed Smart Contract Link
-👉 _Add your deployed contract link here_
+👉 https://stellar.expert/explorer/testnet/contract/CAOXY2AZ5CEKGUUUZNK6CV6N3AV2IRSYU4MNDMBOHMLVXLWKNMT2JP6S
 
 Example:# DecentralizedNewsPlatform
