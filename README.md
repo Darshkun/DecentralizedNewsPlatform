@@ -1,5 +1,6 @@
 # 📰 Decentralized News Platform (Soroban)
-![Uploading image.png…]()
+<img width="959" height="503" alt="image" src="https://github.com/user-attachments/assets/4e40338c-06d4-491c-80ee-1e2c605b7ec3" />
+
 
 ## 📌 Project Description
 Decentralized News Platform is a blockchain-based application built on Stellar Soroban that allows users to publish and access news without relying on centralized authorities. The goal is to promote transparency, censorship resistance, and trust in news distribution.
